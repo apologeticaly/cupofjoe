@@ -17,7 +17,7 @@ export default function Home() {
         <Col><img className="big-images" src="/images/findyourcup.jpg"></img></Col>
         <div class="centered">
           <h1>Find Your Cup</h1>
-          <p>Espresso is generally thicker than coffee brewed by other methods, with a viscosity of warm honey. This is due to the higher concentration of suspended and dissolved solids, and has crema on top (a foam with a creamy consistency). As a result of the pressurized brewing process, the flavors and chemicals in a typical cup of espresso are very concentrated.</p>
+          <p>From sweet to bitter to floral, there are so many amazing experiences of coffee that are out there waiting for you to enjoy them. With our personalized questionnaire, we'll find you the cup of coffee that you're guaranteed to love. Espressos, affogatos and lattes are some of the many drinks that are not only invigorating, but can make a good day even greater.</p>
           <Button variant="dark" href="/survey">Learn More</Button>
         </div>
         
