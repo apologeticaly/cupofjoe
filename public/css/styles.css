@@ -1,0 +1,113 @@
+body {
+  font-family: "Mulish" sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+
+  color: #313131;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+.navbar {
+  padding: 2em 0rem;
+}
+
+.nav-link, .dropdown {
+  color:#313131!important;
+  text-transform: uppercase;
+  padding-right: 2rem!important;
+  font-weight: 500;
+}
+
+.nav-link-right {
+  padding-right: 0!important;
+}
+
+.btn-dark {
+  background-color: #313131
+}
+
+.col-md-4 {
+  margin-bottom: 2em
+}
+
+.col-md-6 {
+  margin: auto 0 auto 0;
+}
+
+.row {
+  margin-bottom: 2em;
+}
+
+/* .home-cta {
+  display: flex;
+  flex-direction: column;
+  flex-basis: content;
+  align-content: center;
+  text-align: center;
+} */
+
+.section-images {
+  max-width: 100%;
+  margin-bottom: 1em;
+
+}
+
+.navbar-brand {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 300;
+  font-size: 2em;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  background-color: #313131;
+}
+
+.big-images {
+  max-width: 100%;
+  margin: 1rem 0;
+}
+
+footer {
+  justify-items: center;
+  display: flex;
+  font-size: 0.75em;
+  color: #313131;
+  text-align: center;
+  padding: 2em 0;
+}
+
+footer > a {
+  color: #313131;
+  text-align: center;
+}
+
+footer > a:hover {
+  color: #313131;
+  opacity: 0.5;
+}
+
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  max-width: 100%;
+}
+
+.centered > p {
+  margin: 0 0 2rem 0;
+}
+
+.findyourcup {
+  position: relative;
+  text-align: center;
+}
