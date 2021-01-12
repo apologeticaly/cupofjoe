@@ -39,7 +39,7 @@ export default function Home() {
       <Col md={4}>
         <img className="section-images" src="/images/drinks/espresso.jpg"></img>
         <h2>Drinks</h2>
-        <p>Coffee around the world is prepared in many different ways. Whether you like it all by itself or accompanied by milk and sugar, there exists a drink for you.</p>
+        <p>Coffee around the world is prepared in many different ways. Whether you like it all by itself or with milk and sugar, there exists a drink for you.</p>
         <Button variant="dark" href="/drinks">Learn More</Button>
       </Col>
       </Row>
