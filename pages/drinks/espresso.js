@@ -14,7 +14,7 @@ export default function Home() {
       <Nav></Nav>
 
       <Row>
-      <Col><img className="big-images" src="/images/drinks/Espresso.jpg"></img></Col>
+      <Col><img className="big-images" src="/images/drinks/espresso.jpg"></img></Col>
       </Row>
 
       <Row>
